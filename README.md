@@ -2,4 +2,4 @@
 - 👀 I’m interested in **computer science** and **cybersecurity**
 - 🌱 I’m currently learning **python**, **javascript**, **php** and **cybersecurity**
 - 💞️ I’m looking to collaborate on **games**, **concepts**, **websites**, **apis**, **etc**.
-- 📫 How to reach me through **[telegram](https://t.me/heitorbelgium)** or **[email](https://t.me/heitorbelgium)**
+- 📫 How to reach me through **[telegram](https://t.me/heitorbelgium)** or **[email](heitornabrela@gmail.com)**
